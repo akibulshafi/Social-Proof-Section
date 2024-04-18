@@ -6,8 +6,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-animation-responsive-AaSicQVhom
-- Live Site URL: https://main--cute-tanuki-6262b1.netlify.app/
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-responsive-with-easy-code-FeBm08IpQ0)
+- Live Site URL: [Social Proof Section](https://socialproofsectionn.netlify.app/)
 
 ## My process
 
@@ -22,3 +22,4 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - Website - [Akibul Islam Shafi]( https://github.com/akibulshafi?tab=repositories)
 - Frontend Mentor - [@akibulshafi]( https://www.frontendmentor.io/profile/akibulshafi)
+- Twitter - [@akibulshafii](https://twitter.com/akibulshafii)
